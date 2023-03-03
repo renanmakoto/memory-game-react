@@ -7,5 +7,3 @@ There were no other mudules installed.
 You may access the application by clicking on the link below:
 
 https://renanmakoto-reactjs-memory-game.netlify.app/
-
-[![Netlify Status]
