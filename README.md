@@ -1,15 +1,12 @@
-There were no other modules installed.
-
-You may access the application by clicking on the link below:
-
-https://renanmakoto-reactjs-memory-game.netlify.app/
-
-
 <h1 align="center">Memory Game with React</h1>
 
 <p align="center">As mentioned previously, I developed a memory game to play with my students, as I used to work as an EFL instructor. However this time I developed using react, to practice my React skills.</p>
 
 <p align="center">There were no other modules installed.</p>
+
+<p align="center">You may access the application by clicking on the link below:</p>
+
+<p align="center">https://renanmakoto-reactjs-memory-game.netlify.app/</p>
 
 <img src="https://img.shields.io/badge/os-Android-green" /> <img src="https://img.shields.io/badge/release-v1.0.0-blue" /> <a href="https://www.npmjs.com/"><img src="https://img.shields.io/badge/npm-v9.3.1-red" /></a> <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/node.js-v.18.14.0-brightgreen" /></a> <img src="https://img.shields.io/badge/license-MIT-blue" />
 
