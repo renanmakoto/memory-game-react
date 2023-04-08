@@ -9,6 +9,8 @@
 <p align="center">https://renanmakoto-reactjs-memory-game.netlify.app/</p>
 
 
+<div align="center">
+
 TECHNOLOGIES USED:
 
 <a><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/2048px-HTML5_logo_and_wordmark.svg.png" style="width: 64px; height: 64px;" /></a>
@@ -17,5 +19,6 @@ TECHNOLOGIES USED:
 <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/64px-React-icon.svg.png" /></a>
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width: 64px; height: 64px;" /></a>
 
+</div>
 
 <p align="center">With ❤ by <img src=https://img.shields.io/badge/-dotExtension-black /> <p/>
