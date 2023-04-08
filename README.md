@@ -23,4 +23,4 @@ TECHNOLOGIES USED:
 
 
 
-<p style="margin-top: 10px;" align="center">With ❤ by <img src=https://img.shields.io/badge/-dotExtension-black /> <p/>
+<p style="margin-top: 100px;" align="center">With ❤ by <img src=https://img.shields.io/badge/-dotExtension-black /> <p/>
