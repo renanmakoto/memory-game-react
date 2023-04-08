@@ -10,6 +10,7 @@
 
 
 <div align="center">
+  
 
 TECHNOLOGIES USED:
 
@@ -19,8 +20,10 @@ TECHNOLOGIES USED:
 <a href="https://reactjs.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/64px-React-icon.svg.png" /></a>
 <a href="https://nodejs.org/"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" style="width: 64px; height: 64px;" /></a>
 
+
 </div>
 
 
 
-<p style="margin-top: 100px;" align="center">With ❤ by <img src=https://img.shields.io/badge/-dotExtension-black /> <p/>
+
+<p align="center">With ❤ by <img src=https://img.shields.io/badge/-dotExtension-black /> <p/>
