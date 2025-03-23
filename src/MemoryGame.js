@@ -21,7 +21,6 @@ export default function MemoryGame() {
     game.flipCard(card.id, () => {
       setGameOver(true)
     }, () => {
-      //NoMatchCallback
       setCards([...game.cards])
     })
     setCards([...game.cards])
