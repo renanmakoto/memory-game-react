@@ -19,7 +19,6 @@ export default function MemoryGame() {
 
   function handleFlip(card) {
     game.flipCard(card.id, () => {
-      //GameOverCallback
       setGameOver(true)
     }, () => {
       //NoMatchCallback
