@@ -63,7 +63,6 @@ let game = {
 
 
 
-
     createCardsFromCardObj: function () {
 
         this.cards = []
