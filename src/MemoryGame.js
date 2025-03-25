@@ -2,6 +2,7 @@ import React, { useEffect, useState } from "react"
 import GameBoard from "./components/GameBoard"
 import GameOver from "./components/GameOver"
 import game from './game/game'
+
 export default function MemoryGame() {
   
   const [gameOver, setGameOver] = useState(false)
