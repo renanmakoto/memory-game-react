@@ -50,6 +50,7 @@ let game = {
         this.secondCard = null;
         this.lockMode = false;
     },
+    
     unflipCards() {
         this.firstCard.flipped = false;
         this.secondCard.flipped = false;
