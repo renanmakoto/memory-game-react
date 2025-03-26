@@ -58,7 +58,6 @@ let game = {
     },
 
     checkGameOver() {
-
         return this.cards.filter(card => !card.flipped).length === 0;
     },
 
