@@ -40,7 +40,7 @@ let game = {
 
     checkIfTheyMatch: function () {
         if (!this.firstCard || !this.secondCard) {
-            return false;
+            return false
         }
         return this.firstCard.icon === this.secondCard.icon;
     },
