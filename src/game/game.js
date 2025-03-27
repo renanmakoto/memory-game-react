@@ -42,7 +42,7 @@ let game = {
         if (!this.firstCard || !this.secondCard) {
             return false
         }
-        return this.firstCard.icon === this.secondCard.icon;
+        return this.firstCard.icon === this.secondCard.icon
     },
 
     clearCards: function () {
