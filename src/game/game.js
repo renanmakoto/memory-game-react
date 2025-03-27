@@ -33,7 +33,7 @@ let game = {
             this.secondCard = card
             this.secondCard.flipped = true
             this.lockMode = true
-            return true;
+            return true
         }
 
     },
