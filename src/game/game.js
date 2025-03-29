@@ -70,7 +70,7 @@ let game = {
         })
         this.cards = this.cards.flatMap(pair => pair)
         this.shuffleCards()
-        return this.cards;
+        return this.cards
     },
 
     createPairFromObj: function (object) {
