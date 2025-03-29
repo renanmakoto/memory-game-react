@@ -98,7 +98,7 @@ let game = {
         while (currentIndex !== 0) {
             
             randomIndex = Math.floor(Math.random() * currentIndex)
-            currentIndex--;
+            currentIndex--
             
             [this.cards[randomIndex], this.cards[currentIndex]] = [this.cards[currentIndex], this.cards[randomIndex]]
         }
