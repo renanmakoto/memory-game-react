@@ -54,7 +54,7 @@ let game = {
     unflipCards() {
         this.firstCard.flipped = false
         this.secondCard.flipped = false
-        this.clearCards();
+        this.clearCards()
     },
 
     checkGameOver() {
