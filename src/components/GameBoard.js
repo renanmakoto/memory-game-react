@@ -1,4 +1,3 @@
-
 //     return(
 //         <div id="gameBoard">
 //             {props.cards.map((card, index)=> {
