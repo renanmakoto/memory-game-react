@@ -1,4 +1,3 @@
-// import CardElement from './CardElement'
 
 // export default function GameBoard(props) {
 //     return(
