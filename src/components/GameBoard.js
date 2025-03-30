@@ -1,4 +1,3 @@
-
 // export default function GameBoard(props) {
 //     return(
 //         <div id="gameBoard">
